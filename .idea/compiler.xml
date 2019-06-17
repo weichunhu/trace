@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trace-common" />
+        <module name="trace-context" />
+        <module name="trace-dubbo-plugin" />
+        <module name="trace-model" />
+        <module name="trace-web-plugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="trace-common" target="1.5" />
+      <module name="trace-context" target="1.5" />
+      <module name="trace-dubbo-plugin" target="6" />
+      <module name="trace-model" target="1.5" />
+      <module name="trace-parent" target="1.5" />
+      <module name="trace-web-plugin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

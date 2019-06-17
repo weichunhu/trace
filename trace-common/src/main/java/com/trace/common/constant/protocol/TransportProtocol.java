@@ -2,7 +2,7 @@ package com.trace.common.constant.protocol;
 
 /**
  * 传输协议
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public enum TransportProtocol {
     /**

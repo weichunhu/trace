@@ -10,7 +10,7 @@ import com.trace.dubbo.plugin.base.AbstractTraceFilter;
 
 /**
  * Dubbo Consumer Trace Filter
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 @Activate(group = Constants.CONSUMER)
 public class ConsumerTraceFilter extends AbstractTraceFilter {

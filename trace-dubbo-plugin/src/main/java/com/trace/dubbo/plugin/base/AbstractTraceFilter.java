@@ -24,7 +24,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * Dubbo Trace Abstract Filter
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public abstract class AbstractTraceFilter implements Filter {
     private static final Logger logger = LoggerFactory.getLogger(TraceLogger.TRACE_LOGGER);

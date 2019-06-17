@@ -2,7 +2,7 @@ package com.trace.common.constant.state;
 
 /**
  * Trace Status
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public enum TraceStatus {
     /**

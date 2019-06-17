@@ -6,7 +6,7 @@ import java.util.UUID;
 
 /**
  * Trace Id Generator
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public class TraceIdGenerator {
 

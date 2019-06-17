@@ -5,7 +5,7 @@ import java.lang.management.RuntimeMXBean;
 
 /**
  * 进程util
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public final class PidUtil {
     /**

@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Trace Web Interceptor
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public class TraceWebInterceptor extends HandlerInterceptorAdapter {
     private static Logger logger = LoggerFactory.getLogger(TraceLogger.TRACE_LOGGER);

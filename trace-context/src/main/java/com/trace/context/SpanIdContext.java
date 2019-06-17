@@ -4,7 +4,7 @@ import com.trace.common.constant.trace.TraceConstants;
 
 /**
  * spanId Context
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public class SpanIdContext {
     private static final InheritableThreadLocal<String> SPAN_ID_CONTEXT = new InheritableThreadLocal<String>();

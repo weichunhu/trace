@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trace-common/trace-common.iml" filepath="$PROJECT_DIR$/trace-common/trace-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-context/trace-context.iml" filepath="$PROJECT_DIR$/trace-context/trace-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-dubbo-plugin/trace-dubbo-plugin.iml" filepath="$PROJECT_DIR$/trace-dubbo-plugin/trace-dubbo-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-model/trace-model.iml" filepath="$PROJECT_DIR$/trace-model/trace-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-parent.iml" filepath="$PROJECT_DIR$/trace-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-web-plugin/trace-web-plugin.iml" filepath="$PROJECT_DIR$/trace-web-plugin/trace-web-plugin.iml" />
+    </modules>
+  </component>
+</project>

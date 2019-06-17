@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * HTTP HEADER
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public final class HttpHeaderUtil {
 

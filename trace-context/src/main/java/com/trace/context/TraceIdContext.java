@@ -5,7 +5,7 @@ import com.trace.context.generator.TraceIdGenerator;
 
 /**
  * TraceId context
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public class TraceIdContext {
     private static final InheritableThreadLocal<String> TRACE_ID_CONTEXT = new InheritableThreadLocal<String>();

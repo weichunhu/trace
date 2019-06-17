@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 
 /**
  * Trace Web Interceptor Registry
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 @Component
 public class TraceWebInterceptorRegistry extends WebMvcConfigurationSupport {

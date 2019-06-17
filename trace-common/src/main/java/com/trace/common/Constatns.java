@@ -2,7 +2,7 @@ package com.trace.common;
 
 /**
  * 通用常量
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public final class Constatns {
     /**

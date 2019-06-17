@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * spanId SEQUENCE
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public class SpanIdSequence {
     private static final InheritableThreadLocal<AtomicInteger> SPAN_ID_SEQUENCE = new InheritableThreadLocal<AtomicInteger>(){

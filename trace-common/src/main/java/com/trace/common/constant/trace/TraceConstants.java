@@ -2,7 +2,7 @@ package com.trace.common.constant.trace;
 
 /**
  * Trace Constants
- * @author chunhua.wei
+ * @author 364623395@qq.com
  */
 public final class TraceConstants {
     /**
