@@ -1,0 +1,3 @@
+com/trace/dubbo/plugin/consumer/ConsumerTraceFilter.class
+com/trace/dubbo/plugin/provider/ProviderTraceFilter.class
+com/trace/dubbo/plugin/base/AbstractTraceFilter.class

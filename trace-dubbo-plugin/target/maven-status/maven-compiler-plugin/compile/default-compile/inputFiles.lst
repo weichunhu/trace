@@ -1,0 +1,3 @@
+/opt/repo/trace/trace-dubbo-plugin/src/main/java/com/trace/dubbo/plugin/consumer/ConsumerTraceFilter.java
+/opt/repo/trace/trace-dubbo-plugin/src/main/java/com/trace/dubbo/plugin/base/AbstractTraceFilter.java
+/opt/repo/trace/trace-dubbo-plugin/src/main/java/com/trace/dubbo/plugin/provider/ProviderTraceFilter.java

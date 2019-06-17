@@ -1,0 +1,2 @@
+consumerTrace=com.trace.dubbo.plugin.consumer.ConsumerTraceFilter
+providerTrace=com.trace.dubbo.plugin.provider.ProviderTraceFilter
